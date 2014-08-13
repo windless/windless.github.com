@@ -40,7 +40,7 @@ public void runThreadUseLambdaMore() {
 
 {% highlight ruby %}
 # ruby version
-[1, 2, 3].map { |i| i * 2} # => [2, 4, 6]
+[1, 2, 3].map { |i| i * 2 } # => [2, 4, 6]
 {% endhighlight %}
 
 {% highlight java %}
