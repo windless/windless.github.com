@@ -6,7 +6,7 @@ summary: Java 的语法实在是蛋疼，Java 8 发布后终于给 Java 带来�
 categories: develop
 ---
 
-每次写 Ruby 的时候都，用 Ruby 的 Block 语法都写的我身心舒畅。lambda 表达式和闭包，已经是现代语言的标配了，
+每次写 Ruby 的时候，用 Ruby 的 Block 语法都写的我身心舒畅。lambda 表达式和闭包，已经是现代语言的标配了，
 甚至很多基于 JVM 的语言都有了这些特性，比如 Groovy，Scala，Clojure，但是 Java 这位老大哥却迟迟不上。
 虽然在 Java 中用匿名类可以实现这些特性，但是这代码量，实在是惨不忍睹，太不美了。
 值得庆幸的是，随着 Java 8 的发布，终于给 Java 这个笨重的家伙带来了一些闪光。
