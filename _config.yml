@@ -1,10 +1,10 @@
 # Site settings
-title: Pixyll
-email: johnotander@gmail.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: Windless AZ
+email: windlessg@gmail.com
+author: Abner Zhong
+description: "Blog"
 baseurl: ""
-url: "http://pixyll.com"
+url: 
 
 # Build settings
 markdown: kramdown
